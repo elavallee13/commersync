@@ -1,6 +1,6 @@
 -- DROPs DATABASE
-DROP DATABASE IF EXISTS ecommerce_db;
+DROP DATABASE IF EXISTS commersync;
 
 -- CREATEs DATABASE
-CREATE DATABASE ecommerce_db;
+CREATE DATABASE commersync;
 
