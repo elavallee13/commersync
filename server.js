@@ -1,3 +1,6 @@
+require('dotenv').config();
+
+
 const express = require('express');
 const routes = require('./routes');
 const sequelize = require('./config/connection');
@@ -16,3 +19,6 @@ sequelize.sync({ force: false }).then(() => {
     console.log(`App listening on port ${PORT}!`);
   });
 });
+console.log('DB_USERNAME:', process.env.DB_USERNAME);
+console.log('DB_PASSWORD:', process.env.DB_PASSWORD);
+console.log('DB_NAME:', process.env.DB_NAME);
