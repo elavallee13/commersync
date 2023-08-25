@@ -62,9 +62,11 @@ Contributions to the Commersync Backend project are encouraged! To contribute:
 5. Create a pull request.
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 Built by [Eric Lavallee](https://github.com/elavallee13/commersync) for the Commersync project.
+
+<img width="1025" alt="Screenshot 2023-08-25 at 6 55 55 PM" src="https://github.com/elavallee13/commersync/assets/126723001/045e15d6-ab21-4a82-b387-b251893677ae">
+
