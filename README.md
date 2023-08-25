@@ -1,6 +1,5 @@
 # Commersync Backend
 
-![Commersync Backend](https://github.com/elavallee13/commersync/blob/main/assets/commersync-logo.png)
 
 ## Description
 
